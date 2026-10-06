@@ -12,8 +12,7 @@ This portfolio documents my research and engineering projects, including the dec
 | --- | --- | --- |
 | [AI-Enhanced Control and Aerodynamic Optimization for Hypersonic Flight](projects/hypersonic-controls/README.md) | Aerodynamic surrogate modeling and control-system integration; AIAA conference research | MATLAB, Simulink |
 | [Supersonic Rocket Analysis](projects/supersonic-rocket/README.md) | CFD-informed structural and thermal analysis | Ansys Fluent, Ansys Mechanical |
-| [Air Engine Design and Manufacturing](projects/air-engine/README.md) | CAD, tolerances, manufacturing, inspection, and safety processes | SolidWorks, lathe, mill, CNC |
-| [Numerical Methods](projects/numerical-methods/README.md) | Numerical integration, differentiation, root finding, and linear systems | MATLAB |
+| [Air Engine Design and Manufacturing](projects/air-engine/README.md) | CAD, tolerances, manufacturing, inspection, and safety processes | SolidWorks, lathe, mill, CNC 
 
 ## Technical skills
 
