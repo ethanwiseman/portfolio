@@ -1,0 +1,35 @@
+# Local operating-system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*~
+*.swp
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# MATLAB autosave and compiled caches
+*.asv
+*.m autosave
+slprj/
+*.slxc
+
+# CAD lock and temporary files
+~$*
+*.sldworks.tmp
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Regenerable output folders
+**/generated/
+**/cache/
