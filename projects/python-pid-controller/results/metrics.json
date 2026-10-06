@@ -1,0 +1,7 @@
+{
+  "step_overshoot_percent": 20.068555255031022,
+  "step_settling_time_2pct_s": 6.72,
+  "post_disturbance_settling_time_2pct_s": 4.490000000000002,
+  "final_error_deg": -0.024251273943285412,
+  "peak_command_torque_Nm": 0.2
+}

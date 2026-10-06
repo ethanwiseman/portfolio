@@ -11,6 +11,7 @@ This portfolio documents my research and engineering projects, including the dec
 | Project | Engineering focus | Tools |
 | --- | --- | --- |
 | [AI-Enhanced Control and Aerodynamic Optimization for Hypersonic Flight](projects/hypersonic-controls/README.md) | Aerodynamic surrogate modeling and control-system integration; AIAA conference research | MATLAB, Simulink |
+| [Python PID Attitude Controller](projects/python-pid-controller/README.md) | Feedback control, actuator saturation, and disturbance recovery in simulation | Python |
 | [Supersonic Rocket Analysis](projects/supersonic-rocket/README.md) | CFD-informed structural and thermal analysis | Ansys Fluent, Ansys Mechanical |
 | [Air Engine Design and Manufacturing](projects/air-engine/README.md) | CAD, tolerances, manufacturing, inspection, and safety processes | SolidWorks, lathe, mill, CNC |
 
