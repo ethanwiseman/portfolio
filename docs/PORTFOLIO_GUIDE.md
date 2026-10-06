@@ -2,38 +2,27 @@
 
 [Back to portfolio](../README.md)
 
-The project pages are ready to hold original engineering evidence. Place files under the corresponding project folder and link them from that project's README.
-
-## Suggested organization
+The research project includes original source, models, saved parameters, the paper, and a validation figure. The rocket project includes a C++ aerodynamic lookup and runnable example. Additional engineering evidence can be added to the corresponding project folders.
 
 | Folder | Contents |
 | --- | --- |
-| `src/` | MATLAB, Python, or other source code |
-| `models/` | Simulink models and manageable native model files |
+| `src/` | MATLAB, Python, or C++ source code |
+| `models/` | Additional simulation models |
 | `drawings/` | CAD exports and dimensioned drawing PDFs |
 | `figures/` | Assembly images, plots, contours, and build photos |
 | `reports/` | Shareable papers and analysis summaries |
 | `data/` | Small input datasets with units and provenance |
 
-Create these folders when actual files are ready to add.
+Existing research files are kept together in their project folder so the MATLAB script can use its expected filenames.
 
-## Make each project reproducible
+## Add next
 
-For executable work, document the required software version, entry-point file, inputs, units, and expected output. State assumptions and identify any data that cannot be distributed.
+1. **Research:** coefficient/load step-response plots and a confirmed MATLAB/Simulink execution record.
+2. **Rocket:** CAD views, boundary conditions, mesh details, CFD/structural plots, and original flight-simulation source.
+3. **Air engine:** assembly photos, before-and-after drawing excerpts, ECNs, and inspection records.
 
-For simulation work, include geometry simplifications, material properties, boundary conditions, solver choices, mesh information, and the basis for checking the results.
+For executable work, record software versions, inputs, units, entry points, and expected outputs. For simulation results, include setup assumptions and the basis for checking accuracy. Credit collaborators, libraries, and external data. Only include materials suitable for distribution.
 
-For manufactured parts, show the relevant drawing, revision rationale, inspection evidence, and assembly behavior.
+Keep regenerable caches and large solver outputs out of ordinary Git history. Document how to obtain any necessary large assets.
 
-## Evidence to add first
-
-1. **Hypersonic controls:** shareable paper, one representative response plot, and original MATLAB/Simulink files.
-2. **Rocket analysis:** geometry view, pressure or temperature contour, and structural result with its setup.
-3. **Air engine:** assembly image, drawing example, build photo, and an explained design revision.
-4. **Numerical methods:** original rocket Euler script and an analytical comparison plot.
-
-## Attribution and file size
-
-Credit collaborators, libraries, and external data. Only upload materials you have permission to distribute, particularly employer files and coauthored research.
-
-Keep large solver outputs and generated caches out of ordinary Git history. For large necessary assets, use an appropriate large-file workflow and provide instructions for obtaining them.
+See [import notes](IMPORT_NOTES.md) for file provenance and the [optional profile README](profile-README.md) for a GitHub profile introduction.

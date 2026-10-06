@@ -2,43 +2,33 @@
 
 [Back to portfolio](../../README.md)
 
-**Tools and processes:** SolidWorks, engineering drawings, lathe, mill, CNC, and caliper inspection  
-**Focus:** Manufacturability, assembly clearance, tolerances, and safety
+**Status:** In progress; four engines planned  
+**Tools:** SolidWorks, ASME Y14.5 GD&T, calipers, lathe, mill; limited CNC exposure
 
-## Objective
+## Objective and responsibility
 
-Design and manufacture an air engine while connecting CAD decisions to machining requirements, inspection, and assembled motion.
+Develop manufacturable components and assembly documentation for an air engine. I am responsible for safety processes on the project and contribute to machining, inspection, drawing revisions, and assembly planning.
 
-## Components
+## My work
 
-The project includes a flywheel, base, piston, and manifold. The manifold was 3D printed; I did not personally print it.
+- Revise dimensions and individual tolerances to balance manufacturing requirements with functional clearance.
+- Measure manufactured parts with calipers against drawing limits and document results in manufacturing inspection reports (MIRs).
+- Use engineering change notices (ECNs) to document design revisions.
+- Develop the bill of materials and select assembly fasteners.
+- Machine components using a lathe and mill, with limited CNC use for flywheel cutting.
+- Perform assembly and fit checks and standardize procedures for the planned four-engine build.
 
-## My contribution
+## Design example: flywheel clearance
 
-- Worked on component design and engineering drawings, including GD&T using ASME Y14.5.
-- Reviewed tolerance stacks and inspected dimensions with calipers.
-- Documented revisions through MIR/ECN processes.
-- Revised interfaces to improve manufacturability, clearance, and motion.
-- Took responsibility for safety processes within the air engine project.
-- Gained manufacturing experience with lathe, mill, and CNC processes; CNC experience is limited.
+The original interface restricted flywheel rotation when secured by its screw. I revised the counterbore dimension in the drawing to provide clearance, along with relevant individual tolerances. Verification of the revised manufactured hardware remains to be documented.
 
-## Design decisions
+This work connected drawing requirements with real assembly behavior and highlighted the importance of inspecting functional interfaces.
 
-| Revision | Reason |
-| --- | --- |
-| Shortened a counterbore | Provide clearance for rotation |
-| Changed flywheel length | Support the intended belt power-transmission interface |
-| Reworked tolerances | Improve manufacturability and assembly clearance |
-| Reviewed flywheel interfaces | Address spin clearance and interaction with piston motion |
+## Evidence to add
 
-These revisions connect component dimensions to how the assembled mechanism moves. A feature can satisfy its drawing dimensions while still creating an interference problem if the surrounding interfaces are not considered.
+- Before-and-after drawing excerpts and the associated ECN.
+- Manufacturing and assembly photos.
+- An example inspection record with nominal dimensions, limits, measured values, and disposition.
+- A concise description of my safety responsibilities and the procedures used.
 
-## Inspection and safety
-
-Dimensional inspection supports the comparison between manufactured parts and drawing requirements. Safety responsibilities are part of the project work; the original process documentation should be added before describing specific controls or procedures.
-
-## Project status and evidence
-
-The longer-term plan is to manufacture four engines. This page does not claim that all four are complete.
-
-Original CAD files, drawings, inspection records, and build photos have not been uploaded. Add assembly views, dimensioned drawings, selected revision examples, and evidence of manufactured parts and operation.
+Only project documentation is included at this stage; source drawings and inspection records have not yet been added. The four-engine build is planned, not completed.

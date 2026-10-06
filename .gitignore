@@ -33,3 +33,6 @@ slprj/
 # Regenerable output folders
 **/generated/
 **/cache/
+
+# Local C++ build outputs
+**/build/

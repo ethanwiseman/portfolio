@@ -1,0 +1,11 @@
+{
+  "algorithm": "SHA-256",
+  "original_assets": {
+    "projects/hypersonic-controls/AI-Enhanced-Control-and-Aerodynamic-Optimization-for-Hypersonic-Flight.pdf": "1e4de44e3cb9beb9568f1495b6a4caa3b06f8415e8a53d4cecd8bcb4d697a729",
+    "projects/hypersonic-controls/AeroModel.slx": "e76135ece3e695987a74c4ac4dc9dca3eefcf694b22a0705725fc8f37f211bfd",
+    "projects/hypersonic-controls/AeroCode.m": "4a0b7e7c6c1d151a34497e210e77fa27c917098d96c913f14ff6df6ad80677d4",
+    "projects/hypersonic-controls/aeroSurrogateModel.mat": "51409e2bb9dc98829e9c96a477740c13c7fd61f0b709855019b37fd617739c5c",
+    "projects/hypersonic-controls/figures/polynomial-validation.png": "c5c8b626cdc25d3602d2a05c1d64f488c81d51d44f419d2f59289aab05752b5e",
+    "projects/supersonic-rocket/src/aero_model.cpp": "fdb973421aeeefc4fc883760c7d45ec4a53e519a38e1d45440b56734fb0b7aa8"
+  }
+}

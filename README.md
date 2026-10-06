@@ -12,7 +12,7 @@ This portfolio documents my research and engineering projects, including the dec
 | --- | --- | --- |
 | [AI-Enhanced Control and Aerodynamic Optimization for Hypersonic Flight](projects/hypersonic-controls/README.md) | Aerodynamic surrogate modeling and control-system integration; AIAA conference research | MATLAB, Simulink |
 | [Supersonic Rocket Analysis](projects/supersonic-rocket/README.md) | CFD-informed structural and thermal analysis | Ansys Fluent, Ansys Mechanical |
-| [Air Engine Design and Manufacturing](projects/air-engine/README.md) | CAD, tolerances, manufacturing, inspection, and safety processes | SolidWorks, lathe, mill, CNC 
+| [Air Engine Design and Manufacturing](projects/air-engine/README.md) | CAD, tolerances, manufacturing, inspection, and safety processes | SolidWorks, lathe, mill, CNC |
 
 ## Technical skills
 
@@ -35,6 +35,12 @@ Civil 3D design revisions, grading and drainage work, stormwater analysis, basin
 
 Each project page describes its objective, my contribution, methods, and current evidence. The [portfolio guide](docs/PORTFOLIO_GUIDE.md) explains how supporting code, drawings, reports, and results can be added.
 
-**Current contents:** project documentation. Original scripts, simulation files, CAD models, paper files, and project images have not yet been uploaded. Numerical results and performance claims will be added with their supporting evidence.
+**Included now:** original [MATLAB source](projects/hypersonic-controls/AeroCode.m), [Simulink model](projects/hypersonic-controls/AeroModel.slx), [saved surrogate parameters](projects/hypersonic-controls/aeroSurrogateModel.mat), [validation figure](projects/hypersonic-controls/figures/polynomial-validation.png), [research paper PDF](projects/hypersonic-controls/AI-Enhanced-Control-and-Aerodynamic-Optimization-for-Hypersonic-Flight.pdf), and [rocket C++ aerodynamic lookup code](projects/supersonic-rocket/src/aero_model.cpp).
+
+The surrogate is evaluated against synthetic analytical data. The rocket C++ table contains development coefficients. CAD, CFD result files, and manufacturing photos remain to be added.
+
+## Research
+
+Ethan A. Wiseman and Brian N. Lopez, *AI-Enhanced Control and Aerodynamic Optimization for Hypersonic Flight*. See the [research project](projects/hypersonic-controls/README.md) for the paper, code, modeling approach, and reported validation results.
 
 [GitHub profile](https://github.com/ethanwiseman)
